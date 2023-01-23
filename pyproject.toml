@@ -13,6 +13,7 @@ nltk = "^3.8.1"
 pandas = "^1.5.3"
 torch = "^1.13.1"
 scikit-learn = "^1.2.0"
+matplotlib = "^3.6.3"
 
 [tool.poetry.dev-dependencies]
 
